@@ -16,7 +16,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -28,7 +28,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "70%" }}></div>
-                                        <span className="progress-value">8 Anos</span>
+                                        <span className="progress-value">9 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "50%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -68,7 +68,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "50%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "50%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -131,7 +131,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -144,7 +144,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "100%" }}></div>
-                                        <span className="progress-value">11 anos</span>
+                                        <span className="progress-value">12 anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "50%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -182,7 +182,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "30%" }}></div>
-                                        <span className="progress-value">4 Anos</span>
+                                        <span className="progress-value">5 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -196,7 +196,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "50%" }}></div>
-                                        <span className="progress-value">6 Anos</span>
+                                        <span className="progress-value">7 Anos</span>
                                     </div>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@ export default class App extends Component {
                                             data-aos-offset="10" data-aos-duration="2000" role="progressbar"
                                             aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"
                                             style={{ width: "30%" }}></div>
-                                        <span className="progress-value">4 Anos</span>
+                                        <span className="progress-value">5 Anos</span>
                                     </div>
                                 </div>
                             </div>

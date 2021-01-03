@@ -19,7 +19,7 @@ class Header extends Component {
                 <ul className="navbar-nav">
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="#about">Sobre Mim</a></li>
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="#skill">Conhecimentos</a></li>
-                  <li className="nav-item"><a className="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
+                  {/*<li className="nav-item"><a className="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>*/}
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="#experience">Experiencia</a></li>
                   <li className="nav-item"><a className="nav-link smooth-scroll" href="#contact">Contato</a></li>
                 </ul>

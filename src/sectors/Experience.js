@@ -9,9 +9,25 @@ export default class Experience extends Component {
                 <div className="h4 text-center mb-4 title">Experiencia</div>
                 <Topic
                     typeDiv='X'
-                    year="Novembro 2019 – Presente"
+                    year="Janeiro 2019 – Presente"
+                    type="Financial Hub"
+                    title="CTO"
+                    location="Sao Paulo"
+                    description="A financialhub e a minha empresa que sempre tive muita paixao e carinho do desenvolvimento de cada uma das coisas que a empresa faz, trabalhando como CTO tive que tirar a mao do codigo e colocar a mao na prancheta desenvolvendo tudo que posso pra fazer com que empresa evolua"
+                />
+                <Topic
+                    typeDiv='X'
+                    year="Marco 2020 – Presente"
+                    type="Kore"
+                    title="Arquiteto de software Senior"
+                    location="Sao Paulo"
+                    description="Na Kore tive muitos desafios, Trabalhando com a modernizacao do sistema atual deles e dando suporte aos sistemas legados, tambem tive a oportunidade de trabalhar muito com DevOps que tem sido a minha paixao por muito tempo<br /><strong>Trabalhando com Jenkins, C#, SpringBoot, Radius</strong>"
+                />
+                <Topic
+                    typeDiv='X'
+                    year="Novembro 2019 – Marco 2020"
                     type="everis"
-                    title="Arquiteto de software"
+                    title="Arquiteto de software Senior"
                     location="Sao Paulo"
                     description="Na everis o meu desafio esta sendo trabalhar com multicloud em uma integracao unica o projeto tem sido muito legal<br /><strong>Trabalhando com Jenkins, AWS, Docker, Rest, SpringBoot, Angular</strong>"
                 />

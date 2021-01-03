@@ -26,7 +26,7 @@ export default class Portfolio extends Component {
                                     <div className="cc-porfolio-image img-raised" data-aos="fade-up"
                                         data-aos-anchor-placement="top-bottom"><a
                                             href="#web-development">
-                                            <figure className="cc-effect"><img src="images/753c6942703631.57d45ce4eed95.png"
+                                            <figure className="cc-effect"><img alt="" src="images/753c6942703631.57d45ce4eed95.png"
                                                 alt="Image" />
                                                 <figcaption>
                                                     <div className="h4">LabConnect</div>
@@ -37,7 +37,7 @@ export default class Portfolio extends Component {
                                     <div className="cc-porfolio-image img-raised" data-aos="fade-up"
                                         data-aos-anchor-placement="top-bottom"><a
                                             href="#web-development">
-                                            <figure className="cc-effect"><img src="images/34bd0542703631.57d45ce4f074d.png"
+                                            <figure className="cc-effect"><img alt="" src="images/34bd0542703631.57d45ce4f074d.png"
                                                 alt="Image" />
                                                 <figcaption>
                                                     <div className="h4">LabConnect</div>
@@ -48,7 +48,7 @@ export default class Portfolio extends Component {
                                     <div className="cc-porfolio-image img-raised" data-aos="fade-up"
                                         data-aos-anchor-placement="top-bottom"><a
                                             href="#web-development">
-                                            <figure className="cc-effect"><img src="images/b1557543354377.57ebed6548bf2.png"
+                                            <figure className="cc-effect"><img alt="" src="images/b1557543354377.57ebed6548bf2.png"
                                                 alt="Image" />
                                                 <figcaption>
                                                     <div className="h4">Couto Interiores</div>
@@ -61,8 +61,7 @@ export default class Portfolio extends Component {
                                     <div className="cc-porfolio-image img-raised" data-aos="fade-up"
                                         data-aos-anchor-placement="top-bottom"><a
                                             href="#web-development">
-                                            <figure className="cc-effect"><img src="images/eb7e3743354377.57ebed654728e.png"
-                                                alt="Image" />
+                                            <figure className="cc-effect"><img alt="" src="images/eb7e3743354377.57ebed654728e.png"/>
                                                 <figcaption>
                                                     <div className="h4">Couto Interiores</div>
                                                 </figcaption>

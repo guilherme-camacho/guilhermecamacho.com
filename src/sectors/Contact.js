@@ -65,11 +65,7 @@ export default class Curriculum extends Component {
                                         <div className="col-md-6">
                                             <div className="card-body">
                                                 <p className="mb-0"><strong>Endereço </strong></p>
-                                                <p className="pb-2">Rua Coronel Oscar Porto, 70 - Paraíso, São Paulo - SP,
-                                                    04003-000
-                                        </p>
-                                                <p className="mb-0"><strong>Telefone</strong></p>
-                                                <p className="pb-2">+55 11 993867346</p>
+                                                <p className="pb-2">Rua Coronel Oscar Porto, 70 - Paraíso, São Paulo - SP, 04003-000</p>
                                                 <p className="mb-0"><strong>Email</strong></p>
                                                 <p>guilhermecamachop@gmail.com</p>
                                             </div>
